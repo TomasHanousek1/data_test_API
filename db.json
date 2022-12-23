@@ -1,13 +1,16 @@
 {
     "Devices": [
       {
-        "GlobalID": "0005Xjsu8jdus0j1"
+        "GlobalID": "0005Xjsu8jdus0j1",
+        "DatablockLink" : "gsh7ksk99n42"
       },
       {
-        "GlobalID": "0311THus7si97Hus"
+        "GlobalID": "0311THus7si97Hus",
+        "DatablockLink" : "ja7j2ja952ms"
       },
       {
-        "GlobalID": "0017J7hsUs8ika98"
+        "GlobalID": "0017J7hsUs8ika98",
+        "DatablockLink" : "0hstsoHs4a82"
       }
     ]
   }
