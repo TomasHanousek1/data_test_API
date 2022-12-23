@@ -1,14 +1,10 @@
 {
-    "users": [
+    "Devices": [
       {
-        "id": 1,
-        "name": "David",
-        "age": 30
+        "Name": "0005Xjsu8jdus0j1"
       },
       {
-        "name": "John",
-        "id": 2,
-        "age": 40
+        "Name": "0005Xjsu8jdus0j1"
       }
     ]
   }
